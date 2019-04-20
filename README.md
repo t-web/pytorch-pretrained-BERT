@@ -39,11 +39,11 @@ This PyTorch implementation of OpenAI GPT-2 is an adaptation of the [OpenAI's im
 | [TPU](#tpu) | Notes on TPU support and pretraining scripts |
 | [Command-line interface](#Command-line-interface) | Convert a TensorFlow checkpoint in a PyTorch dump |
 
-## Installation
+## Installation 安装
 
 This repo was tested on Python 2.7 and 3.5+ (examples are tested only on python 3.5+) and PyTorch 0.4.1/1.0.0
 
-### With pip
+### With pip pip安装
 
 PyTorch pretrained bert can be installed by pip as follows:
 ```bash
